@@ -212,3 +212,27 @@ footer {
     border: 1.5px solid #3882F6;
     box-shadow: 0px 0px 11px 1.5px rgba(31, 41, 55, 1);
 }
+
+.company-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    width: 933px;
+    place-items: center;
+}
+
+.com-box {
+    width: 128px;
+    justify-content: center;
+    align-items: center;
+}
+
+.com-box img {
+    width: 128px;
+    height: 53px;
+}
+
+.wrapper .company {
+    text-align: center;
+    margin: 40px;
+}

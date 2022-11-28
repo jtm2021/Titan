@@ -25,5 +25,16 @@ The wireframes for this project were made digitally using [**Figma**](https://ww
     - Photo by Canva Studio: https://www.pexels.com/photo/photo-of-women-having-conversation-3194524/
     - Photo by Pixabay: https://www.pexels.com/photo/close-up-of-human-hand-327533/
     - Photo by Edmond Dantès: https://www.pexels.com/photo/a-man-in-black-suit-wearing-eyeglasses-sitting-near-the-table-while-talking-to-his-colleague-4339911/
+    - Photo by Pixabay: https://www.pexels.com/photo/man-with-his-hand-in-his-pocket-532220/
+    - Photo by Christina Morillo: https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/
+    - Photo by Abdullahi  Sow: https://www.pexels.com/photo/man-in-gray-suit-jacket-holding-silver-macbook-13222553/
+    - Photo by Kindel Media: https://www.pexels.com/photo/female-employee-leaning-on-handrails-7688302/
+    - Photo by Karolina Grabowska: https://www.pexels.com/photo/a-woman-in-white-blazer-smiling-with-her-arms-crossed-8528852/
+    - Photo by Christina Morillo: https://www.pexels.com/photo/woman-wearing-white-polo-long-sleeved-shirt-1181695/
+    - Photo by Karolina Grabowska: https://www.pexels.com/photo/a-woman-in-knitted-blazer-smiling-with-her-arms-crossed-8528574/
+    - Photo by Kindel Media: https://www.pexels.com/photo/people-having-a-meeting-in-an-office-7688335/
+    - Photo by Enric Cruz López: https://www.pexels.com/photo/contemporary-skyscrapers-in-city-under-cloudless-blue-sky-6272255/
+    - Photo by Olga Lioncat: https://www.pexels.com/photo/modern-skyscrapers-in-london-city-7245344/
+    - Photo by Miki Czetti: https://www.pexels.com/photo/grayscale-photo-of-curtain-glass-wall-building-2918014/
     - Photo by RODNAE Productions: https://www.pexels.com/photo/person-holding-gray-and-white-box-7564251/
 
