@@ -18,3 +18,8 @@ The wireframes for this project were made digitally using [**Figma**](https://ww
 
 </details>
 
+### Media ###
+- The images included in the website were taken from [Pexels.com](https://www.pexels.com/). The links are provided below:
+    - Photo by Mikael Blomkvist: https://www.pexels.com/photo/silver-imac-on-brown-wooden-table-6476193/
+    - Photo by RODNAE Productions: https://www.pexels.com/photo/person-holding-gray-and-white-box-7564251/
+
