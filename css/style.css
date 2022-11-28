@@ -121,7 +121,7 @@ footer {
 
 .hero a {
     background-color: #3882F6;
-    color: #F9FAF8;
+    color: #f9faf8;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -132,7 +132,8 @@ footer {
 .hero a:hover {
     background-color: #1F2937;
     color: #3882F6;
-    border: 1px solid #3882F6;
+    border: 2px solid #3882F6;
+    box-shadow: 0px 0px 5px 1.5px rgba(249, 250, 248, 1);
 }
 
 .info-text h1 {
@@ -164,7 +165,7 @@ footer {
 
 .quote-box .wrapper {
     background: #E5E7EB;
-    padding: 100px 170px;
+    padding: 100px 200px;
     font-family: 'RobotoLightItalic', sans-serif;
     font-size: 36px;
     color: #1F2937;
@@ -176,5 +177,38 @@ footer {
 
 .quote-box .wrapper .reviewer {
     text-align: right;
-    margin-top: 40px;
+    font-family: 'RobotoRegular';
+}
+
+.action {
+    margin-top: 50px;
+    height: 200px;
+}
+
+.action .wrapper {
+    background-color: rgb(56, 130, 246);
+    width: 800px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(249, 250, 248);
+    padding: 50px;
+    align-content: center;
+    align-items: center;
+}
+
+.action a {
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #F9FAF8;
+    margin-top: 20px;
+    text-decoration: none;
+    border: 1px solid #F9FAF8;
+}
+
+.action a:hover {
+    background-color: #1f2937;
+    color: #3882F6;
+    border: 1.5px solid #3882F6;
+    box-shadow: 0px 0px 11px 1.5px rgba(31, 41, 55, 1);
 }
