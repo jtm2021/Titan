@@ -145,17 +145,36 @@ footer {
 
 .info-box {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin-bottom: 50px;
 }
 
 .info-box .box {
-    width: 30%;
+    width: 200px;
     text-align: left;
-    margin: 0 20px;
+    padding: 20px;
     flex-wrap: wrap;
 }
 
 .box img {
     border-radius: 30px;
+    width: 150px;
+    height: 150px;
+}
+
+.quote-box .wrapper {
+    background: #E5E7EB;
+    padding: 100px 170px;
+    font-family: 'RobotoLightItalic', sans-serif;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.quote-box .wrapper .review {
+    text-align: left;
+}
+
+.quote-box .wrapper .reviewer {
+    text-align: right;
+    margin-top: 40px;
 }
