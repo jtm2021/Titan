@@ -423,4 +423,26 @@ footer {
 .locations-img figcaption {
     align-items: left;
     margin: -10px 0px 50px 20px;
+
+}
+
+.thanks {
+    background-image: url("../images/thanks/hero-image.jpg");
+    height: 100vh;
+    font-family: 'RobotoExtraBold', sans-serif;
+    color: #1F2937;
+    text-align: center;
+    place-items: center;
+    border: 2px solid #1F2937;
+}
+
+.thanks h1 {
+    font-family: 'RobotoExtraBold', sans-serif;
+    font-size: 48px;
+    padding-top: 300px;
+}
+
+.thanks p {
+    font-family: 'RobotoRegular', sans-serif;
+    font-size: 26px;
 }
