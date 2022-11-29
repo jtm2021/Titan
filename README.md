@@ -38,3 +38,21 @@ The wireframes for this project were made digitally using [**Figma**](https://ww
     - Photo by Miki Czetti: https://www.pexels.com/photo/grayscale-photo-of-curtain-glass-wall-building-2918014/
     - Photo by RODNAE Productions: https://www.pexels.com/photo/person-holding-gray-and-white-box-7564251/
 
+    PORTRAITS:
+    - Photo by Karolina Grabowska: https://www.pexels.com/photo/a-woman-in-knitted-blazer-smiling-with-her-arms-crossed-8528574/
+    - Photo by Christina Morillo: https://www.pexels.com/photo/woman-wearing-white-polo-long-sleeved-shirt-1181695/
+    - Photo by Karolina Grabowska: https://www.pexels.com/photo/a-woman-in-white-blazer-smiling-with-her-arms-crossed-8528852/
+    - Photo by Kindel Media: https://www.pexels.com/photo/female-employee-leaning-on-handrails-7688302/
+    - Photo by Abdullahi  Sow: https://www.pexels.com/photo/man-in-gray-suit-jacket-holding-silver-macbook-13222553/
+    - Photo by Christina Morillo: https://www.pexels.com/photo/man-wearing-blue-button-up-sweater-1181391/
+    - Photo by Christina Morillo: https://www.pexels.com/photo/woman-smiling-and-holding-teal-book-1181424/
+    - Photo by Pixabay: https://www.pexels.com/photo/man-with-his-hand-in-his-pocket-532220/
+
+    LOGOS:
+    - https://www.pngfind.com/download/oioRRT_ellesse-logo-png-transparent-svg-vector-freebie-supply/
+    - https://www.pngfind.com/download/TmRbJh_waffle-house-logo-hd-png-download/
+    - https://www.pngfind.com/mpng/Tiixiwi_springsrus-logo-spring-visit-columbia-county-florida-hd/
+    - https://www.pngfind.com/mpng/oRoJRo_columbia-distributing-portland-logo-hd-png-download/
+    - https://www.pngfind.com/download/iioThbh_logo-logo-spring-house-coworking-hd-png-download/
+
+
