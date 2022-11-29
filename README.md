@@ -35,7 +35,7 @@ The wireframes for this project were made digitally using [**Figma**](https://ww
     - Photo by Kindel Media: https://www.pexels.com/photo/people-having-a-meeting-in-an-office-7688335/
     - Photo by Enric Cruz López: https://www.pexels.com/photo/contemporary-skyscrapers-in-city-under-cloudless-blue-sky-6272255/
     - Photo by Olga Lioncat: https://www.pexels.com/photo/modern-skyscrapers-in-london-city-7245344/
-    - Photo by Miki Czetti: https://www.pexels.com/photo/grayscale-photo-of-curtain-glass-wall-building-2918014/
+    - Photo by Nextvoyage: https://www.pexels.com/photo/high-rise-buildings-under-blue-sky-3779785/
     - Photo by RODNAE Productions: https://www.pexels.com/photo/person-holding-gray-and-white-box-7564251/
     - Photo by cottonbro studio: https://www.pexels.com/photo/selective-focus-photography-of-woman-using-macbook-pro-3584996/
 
