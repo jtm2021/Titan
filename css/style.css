@@ -102,13 +102,11 @@ footer {
     margin-bottom: 30px;
 }
 
-.hero-img {
-    max-width: 100%;
-}
-
 .hero img {
-    border-radius: 30px;
     object-fit: cover;
+    width: 550px;
+    height: 250px;
+    padding-left: 50px;
 }
 
 .hero .wrapper {
@@ -164,7 +162,7 @@ footer {
 
 .quote-box .wrapper {
     background: #E5E7EB;
-    padding: 100px 200px;
+    padding: 70px 200px;
     font-family: 'RobotoLightItalic', sans-serif;
     font-size: 36px;
     color: #1F2937;
@@ -176,7 +174,8 @@ footer {
 
 .quote-box .wrapper .reviewer {
     text-align: right;
-    font-family: 'RobotoRegular';
+    font-family: 'RobotoRegular', sans-serif;
+    font-size: 24px;
 }
 
 .action {
@@ -186,12 +185,12 @@ footer {
 
 .action .wrapper {
     background-color: rgb(56, 130, 246);
-    width: 800px;
+    width: 850px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
     color: rgb(249, 250, 248);
-    padding: 50px;
+    padding: 40px 50px;
     align-content: center;
     align-items: center;
 }
@@ -218,7 +217,7 @@ footer {
 }
 
 .company .history{
-    margin-left: 15px;
+    margin-left: 40px;
     line-height: 1.3;
 }
 
