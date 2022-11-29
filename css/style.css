@@ -446,3 +446,18 @@ footer {
     font-family: 'RobotoRegular', sans-serif;
     font-size: 26px;
 }
+
+.signup h1 {
+    font-family: 'RobotoExtraBold', sans-serif;
+    font-size: 36px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.signup-form {
+    margin-left: 330px;
+}
+
+.signup-body {
+    height: 600px;
+}

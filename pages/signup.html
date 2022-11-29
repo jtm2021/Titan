@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
-    <title>TiT@N - Thank You Page</title>
+    <title>TiT@N - Sign Up Page</title>
 </head>
 <body>
     <header class="navbar">
@@ -28,11 +28,19 @@
             </nav>
         </div>
     </header>
-    <main>
-        <div class="thanks">
-            <h1>Thank you for contacting us!</h1>
-            <p>We will get back to you as soon as possible.</p>
-        </div>        
+    <main class="signup-body">
+        <div class="signup">
+            <h1>Please fill out the form below:</h1>
+        </div> 
+        <section class="signup-form">
+            <div class="contact-wrapper">
+                <form class="actual-form" action="../pages/signup-thanks.html">
+                    <input type="text" class="input-field" placeholder="First name" required />
+                    <input type="text" class="input-field" placeholder="Last name" required />
+                    <input type="email" class="input-field" placeholder="E-mail Address" required />
+                    <button type="submit" value="submit" class="contact-btn">Sign Up</button>
+                </form>
+        </section>       
     </main>
     <footer>
         <p>Copyright © 2022</p>
