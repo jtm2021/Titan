@@ -310,7 +310,7 @@ footer {
 .contact-info {
     background-color: #1F2937;
     color: #F9FAF8;
-    clip-path: polygon(0 0, 60% 0, 50% 100%, 0% 100%);
+    clip-path: polygon(0 0, 70% 0, 45% 100%, 0% 100%);
     padding: 150px 0 100px 175px;
     height: 500px;
 }

@@ -1,6 +1,6 @@
 # Titan
 
-Titan (stylized as TiT@N) is a fictitious *Digital Marketing Agency*. It is a growing business that helps its clients boost its presence in the market. It has three basic pages that users can navigate (Homepage, About Oage and Contact Page). This website is made using pure HTML and CSS.
+Titan (stylized as TiT@N) is a fictitious *Digital Marketing Agency*. It is a growing business that helps its clients boost its presence in the market. It has three basic pages that users can navigate (Homepage, About Page and Contact Page). This website is made using pure HTML and CSS.
 
 
 ### Wireframes ###
