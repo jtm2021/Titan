@@ -281,3 +281,43 @@ footer {
     align-items: left;
     margin: -10px 0px 50px 20px;
 }
+
+.contact {
+    position: relative;
+    background-color: #1F2937;
+    /* border: 3px solid #3882F6; */
+}
+
+.contact-img {
+    right: 0;
+}
+
+.contact img {
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+    position: absolute;
+    right: 0;
+}
+
+.contact-info {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    clip-path: polygon(0 0, 60% 0, 50% 100%, 0% 100%);
+    padding: 150px 0 100px 175px;
+    height: 500px;
+}
+
+.hero-contact h1 {
+    font-family: 'RobotoExtraBold', sans-serif;
+    margin-bottom: 20px;
+    font-size: 48px;
+    width: 600px;
+}
+
+.hero-contact p {
+    font-family: 'RobotoRegular', sans-serif;
+    font-size: 18px;
+    width: 550px;
+    line-height: 1.5;
+}
