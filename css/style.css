@@ -215,21 +215,21 @@ footer {
 
 .company-wrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-bottom: 50px;
-    width: 933px;
-    place-items: center;
+    flex-wrap: wrap;
 }
 
 .com-box {
-    width: 128px;
+    width: 160px;
     justify-content: center;
     align-items: center;
 }
 
 .com-box img {
     width: 128px;
-    height: 53px;
+    height: 40px;
+    margin: 20px;
 }
 
 .wrapper .company {
