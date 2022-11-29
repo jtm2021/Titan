@@ -1,6 +1,6 @@
 # Titan
 
-Titan (stylized as TiT@N) is a *Digital Marketing Agency*. It is a growing business that helps its clients boost its presence in the market.
+Titan (stylized as TiT@N) is a fictitious *Digital Marketing Agency*. It is a growing business that helps its clients boost its presence in the market. It has three basic pages that users can navigate (Homepage, About Oage and Contact Page). This website is made using pure HTML and CSS.
 
 
 ### Wireframes ###
@@ -52,8 +52,8 @@ The wireframes for this project were made digitally using [**Figma**](https://ww
     LOGOS:
     - https://www.pngfind.com/download/oioRRT_ellesse-logo-png-transparent-svg-vector-freebie-supply/
     - https://www.pngfind.com/download/TmRbJh_waffle-house-logo-hd-png-download/
-    - https://www.pngfind.com/mpng/Tiixiwi_springsrus-logo-spring-visit-columbia-county-florida-hd/
-    - https://www.pngfind.com/mpng/oRoJRo_columbia-distributing-portland-logo-hd-png-download/
-    - https://www.pngfind.com/download/iioThbh_logo-logo-spring-house-coworking-hd-png-download/
+    - https://www.pngfind.com/download/iombThJ_ole-miss-baseball-logo-hd-png-download/
+    - https://www.pngfind.com/download/ibRhRRo_southern-miss-golden-eagles-logo-png-transparent-southern/
+    - https://www.pngfind.com/download/iRTmJmJ_without-these-fantastic-companies-ubc-relay-for-life/
 
 
