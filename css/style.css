@@ -48,7 +48,7 @@ header a {
     text-decoration: none;
 }
 
-header .logo a {
+.wrapper .logo {
     font-family: 'RobotoExtraBold', sans-serif;
     font-size: 24px;
 }
@@ -62,11 +62,11 @@ header li {
     color: #3882F6;
 }
 
-.navbar ul {
+.navbar menu {
     display: flex;
 }
 
-.navbar ul li a {
+.navbar menu li a {
     display: block;
     color: #F9FAF8;
     margin-left: 40px;
@@ -170,39 +170,35 @@ footer a {
     height: 150px;
 }
 
-.quote-box .wrapper {
+.quote-box {
     background: #E5E7EB;
-    padding: 70px 200px;
+    width: 1100px;
+    padding: 70px 100px;
     font-family: 'RobotoLightItalic', sans-serif;
     font-size: 36px;
     color: #1F2937;
+    margin-left: 150px;
 }
 
-.quote-box .wrapper .review {
-    text-align: left;
-}
-
-.quote-box .wrapper .reviewer {
-    text-align: right;
+.quote-box cite {
     font-family: 'RobotoRegular', sans-serif;
+    font-weight: bold;
     font-size: 24px;
+    color: #1F2937;
+    display: block;
+    text-align: right;
+    margin-top: 20px;
 }
 
 .action {
-    margin-top: 50px;
-    height: 200px;
-}
-
-.action .wrapper {
+    margin: 45px 0px 50px 300px;
+    height: 150px;
     background-color: rgb(56, 130, 246);
-    width: 850px;
+    max-width: 800px;
     border-radius: 10px;
-    display: flex;
-    justify-content: space-between;
-    color: rgb(249, 250, 248);
+    color:#F9FAF8;
     padding: 40px 50px;
-    align-content: center;
-    align-items: center;
+    position: relative;
 }
 
 .action a {
@@ -212,6 +208,10 @@ footer a {
     margin-top: 20px;
     text-decoration: none;
     border: 1px solid #F9FAF8;
+    position: absolute;
+    right: 0;
+    margin: -35px 50px 20px 0px;
+
 }
 
 .action a:hover {
