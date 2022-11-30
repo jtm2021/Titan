@@ -66,21 +66,6 @@ header li {
     color: #3882F6;
 }
 
-nav a:after {
-    content: "";
-    position: absolute;
-    background-color: #3882F6;
-    height: 2px;
-    width: 0;
-    left: 0;
-    bottom: -8px;
-    transition: 0.5s;
-}
-
-nav a:hover:after {
-    width: 100%;
-}
-
 .navbar ul {
     display: flex;
 }
@@ -281,7 +266,6 @@ footer a {
     padding: 120px 0 50px 0;
 }
 
-
 .leaders {
     background-color: #1F2937;
     padding: 55px 0 90px;
@@ -297,9 +281,12 @@ footer a {
 }
 
 .leaders-pics {
+    max-width: 1100px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin-left: 150px;
+
 }
 
 .pic-box img {
