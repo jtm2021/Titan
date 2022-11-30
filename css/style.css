@@ -320,7 +320,6 @@ footer a {
 .contact {
     position: relative;
     background-color: #1F2937;
-    /* border: 3px solid #3882F6; */
 }
 
 .contact-img {
@@ -328,7 +327,7 @@ footer a {
 }
 
 .contact img {
-    width: 800px;
+    width: 820px;
     height: 500px;
     object-fit: cover;
     position: absolute;
