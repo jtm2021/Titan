@@ -421,7 +421,7 @@ footer a {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin: 50px;
+    margin: 50px 0px ;
 }
 
 .locations-img img {
@@ -436,7 +436,7 @@ footer a {
 }
 
 .locations-img figcaption {
-    margin-left: 20px;
+    margin: -20px 0px 50px 20px;
 }
 
 .head-office {

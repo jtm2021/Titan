@@ -117,3 +117,7 @@ https://www.pngfind.com/download/iRTmJmJ_without-these-fantastic-companies-ubc-r
 An image hover overlay used in this project was inspired by a video tutorial from youtube. Here is the link to that video: 
 
 - https://www.youtube.com/watch?v=yfg9ChTmuKM
+
+The clip-path CSS property was used in the about page of the website. A clip-path generator was used for this part. Here is the link to that website:
+
+- https://www.cssportal.com/css-clip-path-generator/
