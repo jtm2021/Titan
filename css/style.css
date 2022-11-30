@@ -58,11 +58,7 @@ header li {
     display: inline-block;
 }
 
-.navbar a {
-    position: relative;
-}
-
-.navbar a:hover {
+.navbar li a:hover {
     color: #3882F6;
 }
 
