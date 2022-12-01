@@ -172,12 +172,10 @@ footer a {
 
 .quote-box {
     background: #E5E7EB;
-    width: 1100px;
     padding: 70px 100px;
     font-family: 'RobotoLightItalic', sans-serif;
     font-size: 36px;
     color: #1F2937;
-    margin-left: 150px;
 }
 
 .quote-box cite {
@@ -191,7 +189,6 @@ footer a {
 }
 
 .action {
-    margin: 45px 0px 50px 300px;
     height: 150px;
     background-color: rgb(56, 130, 246);
     max-width: 800px;
@@ -199,6 +196,8 @@ footer a {
     color:#F9FAF8;
     padding: 40px 50px;
     position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .action a {
@@ -275,13 +274,14 @@ footer a {
     margin-bottom: 50px;
 }
 
+.hero-contact {
+    background-color: #1F2937;
+}
+
 .leaders-pics {
-    max-width: 1100px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin-left: 150px;
-
 }
 
 .pic-box img {
@@ -302,6 +302,7 @@ footer a {
 .contact {
     position: relative;
     background-color: #1F2937;
+    max-width: 1100px;
 }
 
 .contact-img {
@@ -313,14 +314,14 @@ footer a {
     height: 500px;
     object-fit: cover;
     position: absolute;
-    right: 0;
+    margin-left: 390px;
 }
 
 .contact-info {
     background-color: #1F2937;
     color: #F9FAF8;
     clip-path: polygon(0 0, 70% 0, 45% 100%, 0% 100%);
-    padding: 150px 0 100px 175px;
+    padding: 124px 0 100px 18px;
     height: 500px;
 }
 
@@ -344,11 +345,11 @@ footer a {
 
 .contact-form {
     background-color: #E5E7EB;
-    height: 500px;
-    margin: 90px 300px;
     border-radius: 20px;
     width: 750px;
     padding: 0px;
+    margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .contact-msg {
@@ -418,8 +419,10 @@ footer a {
     display: flex;
     justify-content: space-around;
     flex-direction: row;
-    margin: 50px 0px 50px 200px;
+    /* margin: 50px 0px 50px 200px; */
     max-width: 950px;
+    margin-top: 75px;
+    margin-bottom: 75px;
 }
 
 .locations-img img {
@@ -472,6 +475,8 @@ footer a {
 
 .thanks {
     background-image: url("../images/thanks/hero-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh;
     font-family: 'RobotoExtraBold', sans-serif;
     color: #1F2937;
@@ -498,10 +503,10 @@ footer a {
     text-align: center;
 }
 
-.signup-form {
-    margin-left: 330px;
+.contact-wrapper .sign {
+    margin: 0 266px;
 }
 
 .signup-body {
-    height: 600px;
+    height: 85vh;
 }
