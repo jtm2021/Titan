@@ -137,8 +137,7 @@ footer a {
 
 .hero a:hover {
     background-color: #1F2937;
-    color: #3882F6;
-    border: 2px solid #3882F6;
+    color: #f9faf8;
     box-shadow: 0px 0px 5px 1.5px rgba(249, 250, 248, 1);
 }
 
