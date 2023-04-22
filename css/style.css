@@ -112,17 +112,8 @@ footer a {
     margin-bottom: 30px;
 }
 
-.hero img {
-    object-fit: cover;
-    width: 550px;
-    height: 250px;
-    padding-left: 50px;
-}
-
-.hero .wrapper {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.hero > .wrapper > :first-child {
+    flex: 1;
 }
 
 .hero a {
