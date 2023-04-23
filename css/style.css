@@ -91,7 +91,7 @@ footer a {
 .hero {
     background-color: #1F2937;
     min-height: 400px;
-    padding: 80px;
+    /* padding: 80px; */
 }
 
 .hero h1 {
@@ -104,16 +104,15 @@ footer a {
 .container {
     display: flex;
     flex-wrap: wrap;
-    outline: 2px solid red;
+    padding: 2rem;
 }
 
 .container > :nth-child(1) {
-    outline: 2px solid green;
     width: 50%;
-    
+    align-self: center;
 }
+
 .container > :nth-child(2) {
-    outline: 2px solid yellow;
     width: 50%;
 }
 
@@ -149,7 +148,6 @@ footer a {
     font-family: 'RobotoExtraBold', sans-serif;
     font-size: 36px;
     color: #1F2937;
-    margin: 50px;
     text-align: center;
 }
 
@@ -517,16 +515,14 @@ footer a {
     .container {
         display: flex;
         flex-direction: column;
-        outline: 2px solid red;
     }
 
     .container > :nth-child(1) {
-        outline: 2px solid green;
         width: 100%;
-        
+        text-align: center;
     }
     .container > :nth-child(2) {
-        outline: 2px solid yellow;
         width: 100%;
+        margin-top: 2rem;
     }
 }
