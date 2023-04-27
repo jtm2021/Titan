@@ -75,7 +75,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 ## Media 
 The images included in the website were taken from [Pexels.com](https://www.pexels.com/). The links are provided below:
 
-<details><summary>Click To Links to IMages Used in This Website</summary>
+<details><summary>Click To Links to Images Used in This Website</summary>
 
 ### Main Images
 https://www.pexels.com/photo/silver-imac-on-brown-wooden-table-6476193/
