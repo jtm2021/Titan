@@ -190,28 +190,27 @@ footer a {
 }
 
 .action {
-    height: 150px;
+    min-height: 150px;
     background-color: rgb(56, 130, 246);
     max-width: 800px;
     border-radius: 10px;
     color:#F9FAF8;
-    padding: 40px 50px;
-    position: relative;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.action > div {
+    align-self: center;
 }
 
 .action a {
     padding: 10px 20px;
     border-radius: 5px;
     color: #F9FAF8;
-    margin-top: 20px;
     text-decoration: none;
     border: 1px solid #F9FAF8;
-    position: absolute;
-    right: 0;
-    margin: -35px 50px 20px 0px;
-
 }
 
 .action a:hover {
@@ -524,5 +523,17 @@ footer a {
     .container > :nth-child(2) {
         width: 100%;
         margin-top: 2rem;
+    }
+
+    .action {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 50px 25px;
+    }
+
+    .action > div {
+        text-align: center;
     }
 }
